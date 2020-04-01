@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316568837013",
+    "firebase_url": "https://movieapp-c820c.firebaseio.com",
+    "project_id": "movieapp-c820c",
+    "storage_bucket": "movieapp-c820c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316568837013:android:04974a3b4454eda4f3749c",
+        "android_client_info": {
+          "package_name": "com.denyhanif.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316568837013-vj5k6c30qcj8nqbin0rfiap0f82i553b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXB2DQ37_QFFYdXwd3yFc_SI-qVjIrmdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316568837013-vj5k6c30qcj8nqbin0rfiap0f82i553b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

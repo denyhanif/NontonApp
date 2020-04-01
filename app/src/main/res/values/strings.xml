@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="nowplaying">Now Playing</string>
+    <string name="nowplaying_desc">Lebih mudah untuk mengetahui\n film yang sedang tampil</string>
+    <string name="presale">Presale</string>
+    <string name="presale_desc">Tidak khawatir ketinggalan\n film baru</string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_desc">Gunakan e wallet untuk transaksi\n pembelian tiket film</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="Nama">Nama </string>
+    <string name="email">Alamat Email</string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="photo">Photo</string>
+    <string name="simpan_dan_lanjutkan">Simpan Dan Lanjutkan</string>
+    <string name="nowolaying">NOW PLAYING</string>
+    <string name="comingson">COMING SOON</string>
+    <string name="selamat_datang">Selamat Datang,</string>
+    <string name="pilih_bangku">Pilih Bangku</string>
+    <string name="belitiket">BELI TIKET</string>
+    <string name="bayar_sekarang">BAYAR SEKARANG</string>
+    <string name="checkout">Checkout</string>
+    <string name="batal">BATALKAN</string>
+    <string name="when">Kapan</string>
+    <string name="datetime">Date and Time</string>
+    <string name="cinema">Cinema</string>
+    <string name="item">Item</string>
+    <string name="total" />
+    <string name="total_bayar">Total Harus Dibayar</string>
+    <string name="e_wallet">E-Wallet</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="edit_profil">Edit Profil</string>
+    <string name="simpan_profil">Simpan Data Baru</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="saldo">Saldo Tersedia</string>
+    <string name="daftar_transaksi">Daftar Trsansaksi</string>
+    <string name="history">My History</string>
+    <string name="masuk">MASUK</string>
+    <string name="daftar">DAFTAR</string>
+
+
+</resources>
